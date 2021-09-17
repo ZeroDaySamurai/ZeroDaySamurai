@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
 - ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons :gun:, etc.  I love learning about countries :flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
 
-![Hey you!!](https://avatars.githubusercontent.com/u/62466466?v=4)
+![Hey you!!](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### 📫 How to reach me:  
 ###### I Haven't yet linked my Accounts yet, sorry been a bit lazy:innocent:.
