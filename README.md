@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on a website, mobile app or a indie game.
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
-- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons:gun:, etc. I love learning about countries:flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
+- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons:gun:, etc.  I love learning about countries:flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
 
 ### 📫 How to reach me:  
 
@@ -39,6 +39,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="zeroDaySamurai GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="zeroDaySamurai GitHub Stats" src="https://github.com/ZeroDaySamurai" />
 
 </details>
