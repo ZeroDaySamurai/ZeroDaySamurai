@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React JS, React Native, Flutter, Unreal Engine 4 and Ballerina
 - 👯 I’m looking to collaborate on a website, mobile app or indie games.
 - 🤔 I’m looking for help with improving my coding skills
-- 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time a actively code everyday.
+- 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
 - ⚡ Fun fact: I love Military History :gun: and learning about countries :flags: and about traditions and  cultures and how it affects their behaviours. 
 
 ### 📫 How to reach me:  
