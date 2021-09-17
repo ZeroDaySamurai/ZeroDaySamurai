@@ -1,15 +1,18 @@
 # Asalam Alaikum:crescent_moon:, I am Shakeel Hoosain 👋
 
-## I'm a Software Developer:computer, Muslim and a Namibian!! 
+## ***I'm a Software Developer:computer:, Muslim and a Namibian Citizen!!*** 
 
 - 🔭 I’m currently working on various Mobile Applications:iphone:
 - 🌱 I’m currently learning React JS, React Native, Flutter, Unreal Engine 4 and Ballerina
 - 👯 I’m looking to collaborate on a website, mobile app or a indie game.
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
-- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons:gun:, etc.  I love learning about countries:flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
+- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons :gun:, etc.  I love learning about countries :flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
+
+![Hey you!!](https://avatars.githubusercontent.com/u/62466466?v=4)
 
 ### 📫 How to reach me:  
+###### I Haven't yet linked my Accounts yet, sorry been a bit lazy:innocent:.
 
 [<img align="left" alt="zeroDaySamurai  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://pages.github.com/)
 [<img align="left" alt="zeroDaySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://pages.github.com/)
@@ -36,9 +39,32 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### Favourite Quotes
+###### Kinda just wanted a qoute section :joy:
 
-  <img align="left" alt="zeroDaySamurai GitHub Stats" src="https://github.com/ZeroDaySamurai" />
+> Waste no more time arguing what a good man should be. Be One. ***— Marcus Aurelius***
+
+> You could leave life right now. Let that determine what you do and say and think. ***—Marcus Aurelius***
+
+> He who fears death will never do anything worth of a man who is alive. ***—Seneca***
+
+> Life is very short and anxious for those who forget the past, neglect the present, and fear the future. ***—Seneca***
+
+> How long are you going to wait before you demand the best for yourself? ***—Epictetus***
+
+> Don’t explain your philosophy. Embody it. ***—Epictetus***
+
+> You have power over your mind — not outside events. Realize this, and you will find strength. ***―Marcus Aurelius***
+
+> Hang on to your youthful enthusiasms — you’ll be able to use them better when you’re older. ***―Seneca***
+
+> Wealth consists not in having great possessions, but in having few wants. ***―Epictetus***
+
+> If it is not right, do not do it; if it is not true, do not say it. ***— Marcus Aurelius***
+
+<details>
+  <summary>:zap: GitHub Repos</summary>
+
+  <img align="left" alt="zeroDaySamurai GitHub Stats" src="https://github.com/ZeroDaySamurai?tab=repositories" />
 
 </details>
