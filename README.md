@@ -9,11 +9,11 @@
 - 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time a actively code everyday.
 - ⚡ Fun fact: I love Military History :gun: and learning about countries :flags: and about traditions and  cultures and how it affects their behaviours. 
 
-##- 📫 How to reach me: 
+##- 📫 How to reach me: zeroDaySamurai 
 
-[<img align="left" alt="zeroDaySamurai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="zeroDaySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="zeroDaySamurai | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="zeroDaySamurai  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter](https://pages.github.com/)
+[<img align="left" alt="zeroDaySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://pages.github.com/)
+[<img align="left" alt="zeroDaySamurai| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://pages.github.com/)
 
 ### Languages and Tools:
 
