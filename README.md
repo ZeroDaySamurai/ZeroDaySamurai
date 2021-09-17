@@ -16,7 +16,7 @@
 
 [<img align="left" alt="zeroDaySamurai  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://pages.github.com/)
 [<img align="left" alt="zeroDaySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://pages.github.com/)
-[<img align="left" alt="zeroDaySamurai| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://pages.github.com/)
+[<img align="left" alt="zeroDaySamurai| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/be_hoosain/)
 
 <br />
 
