@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on various Mobile Applications:iphone:
 - 🌱 I’m currently learning React JS, React Native, Flutter, Unreal Engine 4 and Ballerina
-- 👯 I’m looking to collaborate on a website, mobile app or indie games.
-- 🤔 I’m looking for help with improving my coding skills
+- 👯 I’m looking to collaborate on a website, mobile app or a indie game.
+- 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
-- ⚡ Fun fact: I love Military History :gun: and learning about countries :flags: and about traditions and  cultures and how it affects their behaviours. 
+- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons:gun:, etc. I love learning about countries:flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
 
 ### 📫 How to reach me:  
 
