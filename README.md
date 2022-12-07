@@ -2,12 +2,11 @@
 
 ## ***I'm a Software Developer:computer:, Muslim and a Namibian Citizen!!*** 
 
-- 🔭 I’m currently working on various Mobile Applications:iphone:
-- 🌱 I’m currently learning React JS, React Native, Flutter, Unreal Engine 4 and Ballerina
-- 👯 I’m looking to collaborate on a website, mobile app or a indie game.
+- 🔭 I’m currently working as a Integration Developer:
+- 🌱 I’m currently learning C#(Intermediate & Advanced concepts), Dotnet framework, Kubernetes, as well as Backend Development and TDD Concepts. 
+- 👯 My interests are improving society and mu immediate enviornment with my skills..
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
-- 🥅 2021 Goals: To become a better web and mobile developer and to increase the amount of time I spend actively coding everyday. Inshalla!
-- ⚡ Fun fact: I love everything Military related! history, tactics & strategies, innovations, weapons :gun:, etc.  I love learning about countries :flags:, their about traditions & cultures, economics & finances, governance & politics, etc. 
+- 🥅 2023 Goals: To become a better backend and integration developer, spend more time coding and to improve my communication skills. Inshalla! 
 
 ![Hey you!!](https://myoctocat.com/assets/images/base-octocat.svg)
 
@@ -28,7 +27,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="ASP.NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
