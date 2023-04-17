@@ -1,6 +1,6 @@
-# Asalam Alaikum:crescent_moon:, I am Shakeel Hoosain 👋
+#Hello, I am Shakeel Hoosain 👋
 
-## ***I'm a Software Developer:computer:, Muslim and a Namibian Citizen!!*** 
+## ***I am a Backend and Integration Developer, specializing in Microservices*** 
 
 - 🔭 I’m currently working as a Integration Developer:
 - 🌱 I’m currently learning C#(Intermediate & Advanced concepts), Dotnet framework, Kubernetes, as well as Backend Development and TDD Concepts. 
@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2023 Goals: To become a better backend and integration developer, spend more time coding and to improve my communication skills. Inshalla! 
 
-![Hey you!!](https://myoctocat.com/assets/images/base-octocat.svg)
+![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
 
 ### 📫 How to reach me:  
 ###### I Haven't yet linked my Accounts yet, sorry been a bit lazy:innocent:.
