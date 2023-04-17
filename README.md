@@ -8,19 +8,31 @@
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2023 Goals: To become a better backend and integration developer, spend more time coding and to improve my communication skills. Inshalla! 
 
-![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
-
 ### 📫 How to reach me:  
 ###### I Haven't yet linked my Accounts yet, sorry been a bit lazy:innocent:.
 
-[<img align="left" alt="zeroDaySamurai  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://pages.github.com/)
-[<img align="left" alt="zeroDaySamurai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://pages.github.com/)
-[<img align="left" alt="zeroDaySamurai| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/be_hoosain/)
+<div> 
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-4267B2?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+
+![Snake animation](https://github.com/willianmano/willianmano/blob/main/github-contribution-grid-snake.svg)
+
+</div>
 
 <br />
 
 ### Languages and Tools:
-
+###### Yeah imagine, if you could only know this little and get by.
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -37,30 +49,6 @@
   
 <br />
 <br />
-
-### Favourite Quotes
-###### Kinda just wanted a qoute section :joy:
-
-> Waste no more time arguing what a good man should be. Be One. ***— Marcus Aurelius***
-
-> You could leave life right now. Let that determine what you do and say and think. ***—Marcus Aurelius***
-
-> He who fears death will never do anything worth of a man who is alive. ***—Seneca***
-
-> Life is very short and anxious for those who forget the past, neglect the present, and fear the future. ***—Seneca***
-
-> How long are you going to wait before you demand the best for yourself? ***—Epictetus***
-
-> Don’t explain your philosophy. Embody it. ***—Epictetus***
-
-> You have power over your mind — not outside events. Realize this, and you will find strength. ***―Marcus Aurelius***
-
-> Hang on to your youthful enthusiasms — you’ll be able to use them better when you’re older. ***―Seneca***
-
-> Wealth consists not in having great possessions, but in having few wants. ***―Epictetus***
-
-> If it is not right, do not do it; if it is not true, do not say it. ***— Marcus Aurelius***
-
 <details>
   <summary>:zap: GitHub Repos</summary>
 
