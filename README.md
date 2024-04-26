@@ -1,10 +1,9 @@
 # Hello, I am Shakeel Hoosain 👋
 
-## ***I am a Backend and Integration Developer, specializing in Microservices*** 
+## ***I am a Backend developer / Devops engineer*** 
 
-- 🔭 I’m currently working as a Integration Developer:
-- 🌱 I’m currently learning C#(Intermediate & Advanced concepts), Dotnet framework, Kubernetes, as well as Backend Development and TDD Concepts. 
-- 👯 My interests are improving society and mu immediate enviornment with my skills..
+- 🔭 I’m currently using the Dotnet Framework.
+- 👯 My interests is being a positive member to society
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
 - 🥅 2023 Goals: To become a better backend and integration developer, spend more time coding and to improve my communication skills. Inshalla! 
 
