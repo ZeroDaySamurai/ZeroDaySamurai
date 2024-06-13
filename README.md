@@ -3,12 +3,12 @@
 ## ***I am a Backend developer / Devops engineer*** 
 
 - 🔭 I’m currently using the Dotnet Framework.
-- 👯 My interests is being a positive member to society
+- 👯 My interest are Sociology, futurism and character development
 - 🤔 I’m looking for help with improving my coding skills, I am always open to learning from those with more skill and experience than myself.
-- 🥅 2023 Goals: To become a better backend and integration developer, spend more time coding and to improve my communication skills. Inshalla! 
+- 🥅 2024 Goals: Improve my competency as a Backend and Integration Developer. Become more consistent with my side projects.
 
 ### 📫 How to reach me:  
-###### I Haven't yet linked my Accounts yet, sorry been a bit lazy:innocent:.
+###### Yeah these are just here for show, if you want to contact me do it through email only. 
 
 <div> 
   <a href="" target="_blank">
