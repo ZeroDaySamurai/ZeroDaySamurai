@@ -1,6 +1,7 @@
 # Hello, I am Shakeel Hoosain 👋
 
 ## ***I am a Backend developer / Devops engineer*** 
+## Here lays all my imcomplete projects and all my new course learning material. 
 
 - 🔭 I’m currently using the Dotnet Framework.
 - 👯 My interest are Sociology, futurism and character development
